@@ -1,1 +1,23 @@
-
+{
+    "menu_system": "Auditoria de Sistema",
+    "menu_network": "Central de Redes Nexus",
+    "menu_web": "Web & Inteligência OSINT",
+    "menu_hacking": "Hacking & Reconhecimento",
+    "menu_cloud": "Serviços Cloud & Social",
+    "menu_crypto": "Criptografia & Segurança",
+    "menu_multimedia": "Mídia & Esteganografia",
+    "menu_file": "Gestão de Ficheiros & Dev",
+    "menu_converter": "Conversores de Dados",
+    "menu_fun": "Jogos & Entretenimento",
+    "menu_text": "Alquimia de Texto",
+    "menu_lab": "Laboratório Científico",
+    "menu_connect": "Onyx Connect (API)",
+    "menu_archive": "Arquivo de Referências",
+    "menu_codex": "Codex do Programador",
+    "menu_opkg": "Gestor de Plugins (OPKG)",
+    "exit": "Sair / Adeus",
+    "welcome": "Bem-vindo ao Menu Principal Onyx",
+    "select": "Escolha uma categoria",
+    "back": "Voltar",
+    "press_enter": "\nPressione [Enter] para continuar"
+}
